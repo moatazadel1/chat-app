@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+This is a flutter based modern messaging app where users can sign up and log in to chat with their friends with enriched User-Experience.
 
 ## Getting Started
 
